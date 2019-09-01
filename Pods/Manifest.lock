@@ -1,0 +1,98 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - FDFullscreenPopGesture (1.1)
+  - IQKeyboardManager (6.2.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.1.15.7)
+  - OpenSSL (1.0.210)
+  - PGDatePicker (2.6.9):
+    - PGPickerView
+  - PGPickerView (1.3.8)
+  - ReactiveObjC (3.1.0)
+  - SAMKeychain (1.5.3)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SKUDataFilter (1.0.1)
+  - SVProgressHUD (2.2.5)
+  - YCMenuView (1.1.0)
+  - YPNavigationBarTransition (2.0.9)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - AFNetworking
+  - FDFullscreenPopGesture
+  - IQKeyboardManager
+  - Masonry
+  - MBProgressHUD
+  - MJRefresh
+  - OpenSSL
+  - PGDatePicker
+  - ReactiveObjC
+  - SAMKeychain
+  - SDWebImage
+  - SKUDataFilter
+  - SVProgressHUD
+  - YCMenuView
+  - YPNavigationBarTransition
+  - YYKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - FDFullscreenPopGesture
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - OpenSSL
+    - PGDatePicker
+    - PGPickerView
+    - ReactiveObjC
+    - SAMKeychain
+    - SDWebImage
+    - SKUDataFilter
+    - SVProgressHUD
+    - YCMenuView
+    - YPNavigationBarTransition
+    - YYKit
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  OpenSSL: 246ffb948e9d56466727fd318134af35f5aa764e
+  PGDatePicker: 88960f3760edac96219c10320f25536ad31d0f44
+  PGPickerView: 037acfb132a4c8054fb43aaa59a5ff50c7f747f5
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SKUDataFilter: 4405da06967861c97a5d5cb91625345741a41329
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  YCMenuView: 1514dd2600e8a541bc1bf0f415e6a58a36ba562d
+  YPNavigationBarTransition: 928a8a3d944cecfd2f10a0847710384a9cdf9039
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 10f9b0ddf0c028be0e9ac918ffee109522e952c7
+
+COCOAPODS: 1.5.3

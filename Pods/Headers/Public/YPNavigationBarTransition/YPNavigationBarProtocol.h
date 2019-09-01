@@ -1,0 +1,1 @@
+../../../YPNavigationBarTransition/YPNavigationBarTransition/YPNavigationBarProtocol.h

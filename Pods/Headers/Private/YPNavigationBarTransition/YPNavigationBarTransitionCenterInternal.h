@@ -1,0 +1,1 @@
+../../../YPNavigationBarTransition/YPNavigationBarTransition/internal/YPNavigationBarTransitionCenterInternal.h
